@@ -1,0 +1,16 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<vuelos>
+   <vuelo>
+       <id>1</id>
+       <origen>New York</origen>
+       <destino>London</destino>
+       <duracion>415</duracion>
+</vuelo>
+    <vuelo>
+        <id>2</id>
+        <origen>Shangai</origen>
+        <destino>Paris</destino>
+        <duracion>760</duracion>
+    </vuelo>
+    
+</vuelos>
