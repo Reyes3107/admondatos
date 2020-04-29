@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<peliculas>
+  <pelicula peli_id="1">
+    <titulo>dragon ball</titulo>
+    <año>2017</año>
+    <genero>Anime</genero>
+    <clasificacion>A</clasificacion>
+  </pelicula>
+<pelicula peli_id="2"><titulo>Dragon Ball Z</titulo><año>2018</año><genero>Acción</genero><clasificacion>B</clasificacion></pelicula></peliculas>
